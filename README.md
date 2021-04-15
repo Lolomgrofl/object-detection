@@ -1,2 +1,2 @@
 # Object_detection
-Object detection with YOLO
+Implemented Yolo algorithm for object tracking and object detection.
